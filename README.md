@@ -36,5 +36,5 @@ Git (для клонирования проекта)
 
 Клонируй репозиторий:
 
-git clone https://github.com/твой_ник/online-store-backend.git
+git clone https://github.com/Declinemon7/online-store-backend.git
 cd online-store-backend
